@@ -1,0 +1,4 @@
+Pitfalls
+- Don't try to return an array from a function. Pass in a pointer as a parameter to the function instead. You probably want to pass the length of the array as a parameter as well.
+- Delete dynamic arrays that you create in a function that will be called often.
+- Functions can't use functions that aren't declared or prototyped earlier in the file.
