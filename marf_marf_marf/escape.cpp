@@ -6,19 +6,22 @@ using namespace std;
 
 int main()
 {
-    cout << "newline";
-    cout << "\n";
-    cout << "carriage return";
-    cout << "\r";
-    cout << "vertical tab";
-    cout << "\v";
-    cout << "Form feed";
-    cout << "\f";
-    cout << "Alert (beep)";
-    cout << "\a";
-    // cout << "\";
-    // cout << "\";
-    // cout << "\";
-    // cout << "\";
+    cout << "newline" << endl;
+    cout << "MEOW \n" << endl;
+    cout << "carriage return" << endl;
+    cout << "meow meow \r" << endl;
+    cout << "vertical tab" << endl;
+    cout << "\v meow " << endl;
+    cout << "Form feed" << endl;
+    cout << "\f whut " << endl;
+    cout << "Alert (beep)" << endl;
+    cout << "alert??? \a" << endl;
+    cout << "Question mark " << endl;
+    cout << "h3ll0\?" << endl;
+
+    cout << "double quotation" << endl;
+    cout << "\"" << endl;
+    cout << "backslash" << endl;
+    cout << "\\" << endl;
     return 0;
 }
