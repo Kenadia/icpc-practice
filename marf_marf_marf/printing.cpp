@@ -5,8 +5,8 @@ using namespace std;
 
 int main()
 {
-	cout << "Marf marf marf marf";
-	cout << "Programming for the world championships..."
-	cout << "Casual"
+	cout << "Marf marf marf marf \n";
+	cout << "Programming for the world championships... \n";
+	cout << "Casual \n";
 	return 0;
 }
