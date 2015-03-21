@@ -23,5 +23,11 @@ int main()
     cout << "\"" << endl;
     cout << "backslash" << endl;
     cout << "\\" << endl;
+
+
+    string s = "string expressed in \
+    multiple lines";
+
+    cout << s << endl;
     return 0;
 }
